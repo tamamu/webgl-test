@@ -14,5 +14,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "google-closure-library": "^20160822.0.0"
   }
 }
