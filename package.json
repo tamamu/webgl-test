@@ -13,7 +13,6 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-plumber": "^1.1.0",
     "gulp-webserver": "^0.9.1"
   }
 }

@@ -7,6 +7,7 @@ targets = [
   './*.html'
 ];
 
+/*
 gulp.task('reload', () => {
 	gulp.src(targets)
 		.pipe(webserver.reload());
@@ -15,6 +16,7 @@ gulp.task('reload', () => {
 gulp.task('watch', () => {
 	gulp.watch(targets, ['reload']);
 });
+*/
 
 gulp.task('webserver', () => {
 	gulp.src('./')
